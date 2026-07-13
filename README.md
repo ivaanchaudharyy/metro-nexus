@@ -56,5 +56,6 @@ This project supports the following submission deliverables:
 https://metro-nexus-three.vercel.app/site.html
 
 ## Team: TISVV
-Member 1- Ivaan Chaudhary
+Member 1- Ivaan Chaudhary 
+
 Member 2- Anvay Shah Chawla
