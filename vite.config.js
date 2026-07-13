@@ -4,11 +4,12 @@ import { resolve } from 'node:path'
 
 export default defineConfig({
   plugins: [react()],
+  publicDir: 'assets',
   build: {
     rollupOptions: {
       input: {
-        index: resolve(__dirname, 'index.html'),
-        site: resolve(__dirname, 'site.html'),
+        index: resolve(process.cwd(), 'index.html'),
+        site: resolve(process.cwd(), 'site.html'),
       },
     },
   },
