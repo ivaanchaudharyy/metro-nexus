@@ -1,20 +1,58 @@
-# Metro Nexus — The Living Stacks
+# Metro Nexus - The Living Stacks
 
-A React/Vite refresh of Metro Nexus as a neon virtual library for a fictional 2038 city.
+Metro Nexus is a hard-coded interactive website prototype for a fictional AI-powered subway network set in Delhi NCR, 2038.
 
-## Included experience
+The project imagines the future city as a living digital library: metro lines become volumes, stations become pages, and everyday journeys become archived stories. The experience combines transit navigation, digital archive systems, brand identity, and speculative UI/UX design into one cohesive web prototype.
 
-- Neon pink, violet, mint, and blue cyberpunk visual system with responsive layouts.
-- Book-like line folios with page-turn animation and five themed route volumes.
-- City Atlas with an interactive fictional line map and a short introduction for every line.
-- Rebuilt rider experience page: readable journey timeline, ratings, public rider notes, and line-specific issue reports.
-- Locally persistent Nexus ID issued uniquely per browser, with editable reader record and copy action.
+## Project Concept
 
-## Run locally
+In 2038, megacities have grown too large for traditional transit systems to keep up. As someone who grew up in Delhi, and knows each part of Delhi like the back of my hand, this project is inspired by a fictional, future Delhi-NCR metro system. All lines are parodies of existing ones with an innovative twist from our side. Metro Nexus is the world’s first AI-powered subway network, designed to adapt to its passengers and preserve the memory of the city through movement.
 
-```bash
-npm install
-npm run dev
-```
+This prototype presents Metro Nexus as a neon archive interface where users can explore routes, line folios, city sectors, journey records, passenger notes, and transit identity elements.
 
-The reviews, reader record, and Nexus ID use browser local storage, so they remain available after a refresh on the same device.
+## Included Experience
+
+- Responsive React/Vite website prototype
+- Neon cyberpunk visual system using pink, violet, mint, blue, and dark archive tones
+- Book-like line folios with page-turn inspired transitions
+- Transit OS interface combining City Atlas, Line Folios, route UI, status UI, and passenger experience layers
+- Interactive fictional line map for Delhi NCR, 2038
+- Line-specific station information and short introductions
+- Rider experience section with journey timeline, ratings, public notes, and issue reports
+- Locally persistent Nexus ID issued uniquely per browser
+- Editable reader/passenger record stored in browser local storage
+- Copy action for Nexus ID
+- Metro card / access pass UI
+- Brand identity section explaining philosophy, aim, architecture, logo, colours, typography, design system, and iconography
+
+## Deliverables Covered
+
+This project supports the following submission deliverables:
+
+1. Functional Website / App  
+   A working interactive prototype built with React and Vite.
+
+2. Brand Identity  
+   Includes logo usage, typography, colour palette, visual system, and iconography direction.
+
+3. UI / UX Assets  
+   Includes Transit OS, line folios, status panels, metro card, route/navigation UI, and passenger experience interface elements.
+
+4. Promotional / Supporting Material  
+   The visual language can be extended into posters, tickets, cards, and campaign material.
+
+## Tech Stack
+
+- React
+- Vite
+- JavaScript
+- HTML
+- CSS
+- Browser Local Storage
+
+## Run Locally
+https://metro-nexus-three.vercel.app/site.html
+
+Make sure Node.js is installed on your system.
+
+ site
