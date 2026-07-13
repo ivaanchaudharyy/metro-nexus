@@ -41,6 +41,8 @@ This project supports the following submission deliverables:
 4. Promotional / Supporting Material  
    The visual language can be extended into posters, tickets, cards, and campaign material.
 
+5. Motion Design- 33 second video
+
 ## Tech Stack
 
 - React
@@ -53,6 +55,6 @@ This project supports the following submission deliverables:
 ## Run Locally
 https://metro-nexus-three.vercel.app/site.html
 
-Make sure Node.js is installed on your system.
-
- site
+## Team: TISVV
+Member 1- Ivaan Chaudhary
+Member 2- Anvay Shah Chawla
